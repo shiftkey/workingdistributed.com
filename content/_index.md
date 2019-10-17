@@ -1,4 +1,3 @@
 ---
-title: Coming Soon(tm)
 ---
 

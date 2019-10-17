@@ -53,20 +53,3 @@ pygmentsStyle = "pygments"
   table_border_color = "#e9ebec"
   hr_border_color = "#eff0f1"
 
-[menu]
-  [[menu.nav]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 4
