@@ -1,0 +1,14 @@
+[build]
+  command="hugo --buildDrafts --gc"
+
+[context.production.environment]
+  HUGO_VERSION="0.58.3"
+  HUGO_ENV="production"
+  HUGO_ENABLEGITINFO="false"
+
+[context.deploy-preview]
+command = "hugo --buildDrafts --gc -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION="0.58.3"
+  HUGO_ENABLEGITINFO="false"
