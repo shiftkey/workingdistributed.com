@@ -17,14 +17,14 @@ pygmentsStyle = "pygments"
 [params]
   # Header text, can be markdown
   project_name = "Working Distributed"
-  project_tagline = "A collaborative resource to support people and teams and enable them work wherever they want"
+  project_tagline = "A collaborative resource for support people and teams to enable them work wherever they want"
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "2006-01-02"
 
   # Footer text, can be markdown
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [Netlify](https://www.netlify.com/). Content on [GitHub](https://github.com/shiftkey/workingdistributed.com)."
 
   # If true, the CSS/JS for Katex math typesetting are enabled
   katex = true
