@@ -17,7 +17,7 @@ pygmentsStyle = "pygments"
 [params]
   # Header text, can be markdown
   project_name = "Working Distributed"
-  project_tagline = "A collaborative resource for support people and teams to enable them work wherever they want"
+  project_tagline = "A collaborative resource for people and teams to enable them to work wherever and however they prefer"
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
