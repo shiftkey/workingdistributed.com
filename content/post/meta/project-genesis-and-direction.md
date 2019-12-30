@@ -1,5 +1,5 @@
 ---
-title: Genesis and Direction
+title: Project Genesis and Direction
 ---
 
 For those out there who are not familiar with myself or this project, I wanted

@@ -16,7 +16,7 @@ More will appear here as I have time and the urge to write about them.
 These links are resources about the project itself, to go with the content
 related to the project:
 
-- [Genesis and Direction](/genesis-and-direction/)
+- [Project Genesis and Direction](/genesis-and-direction/)
 - [Accepting contributions](/accepting-contributions/)
 
 ## Questions
