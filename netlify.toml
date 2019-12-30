@@ -2,7 +2,7 @@
   command="hugo --buildDrafts --gc"
 
 [context.production.environment]
-  HUGO_VERSION="0.58.3"
+  HUGO_VERSION="0.62.0"
   HUGO_ENV="production"
   HUGO_ENABLEGITINFO="false"
 
