@@ -28,7 +28,7 @@ think this could head and how you can get involved.
 If you find something on the site that could be improved - to address a typo or
 a gramatically error - I'd happily accept an [open issue](https://github.com/shiftkey/workingdistributed.com/issues/new?template=problem-with-content.md) to track the problem. If you have a
 GitHub account I plan to make it easy to jump straight from any page to the
-source site in the reposittory to make edits, but that's not implemented yet -
+source site in the repository to make edits, but that's not implemented yet -
 see [issue #13](https://github.com/shiftkey/workingdistributed.com/issues/13)
 for more details on this.
 
