@@ -15,7 +15,7 @@ Let me explain how I've settled on each item in this list.
 
 The team should be aligned and focused on acheiving a certain goal - whether
 it's a short-term project that takes weeks or perhaps working on a product that
-might evolve over a period of mmonths or years. Knowing the goal helps to know
+might evolve over a period of months or years. Knowing the goal helps to know
 who is considered "core" to achieving the goal, versus those who fall into of a
 "stakeholder" role on the outside. Goals may also require collaborating with
 other teams inside a company - let's call those "partner teams".
